@@ -6,3 +6,8 @@ h1 {
     font-size: 75px;
     color: rgb(144, 108, 62);
 }
+
+.homelink {
+    color: rgb(63, 39, 6);
+    font-size: 40px;
+}
